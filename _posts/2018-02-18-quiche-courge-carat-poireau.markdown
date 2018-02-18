@@ -18,14 +18,14 @@ Pour 4 à 6 personnes :
 
 ## Préparation
 
-1.Laver, éplucher et vider la courge. 
-1.Couper en gros morceaux et cuire à la vapeur pendant 10 minutes. 
-1.Réduire la courge en purée.
-1.Couper le poireau en rondelles. Faire revenir 10-15 minutes dans une poêle avec un peu d’huile.
-1.Dans un saladier, mélanger les œufs avec la créme fraiche et le fromage râpé. 
-1.Ajouter la purée de courge. Assaisonner (sel, poivre).
-1.Mettre les poireaux sur la pâte feuilleté.
-1.Versez la purée sur la pâte puis enfourner.
+1. Laver, éplucher et vider la courge.
+1. Couper en gros morceaux et cuire à la vapeur pendant 10 minutes.
+1. Réduire la courge en purée.
+1. Couper le poireau en rondelles. Faire revenir 10-15 minutes dans une poêle avec un peu d’huile.
+1. Dans un saladier, mélanger les œufs avec la créme fraiche et le fromage râpé.
+1. Ajouter la purée de courge. Assaisonner (sel, poivre).
+1. Mettre les poireaux sur la pâte feuilleté.
+1. Versez la purée sur la pâte puis enfourner.
 
 ## Cuisson
 
