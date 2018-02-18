@@ -15,7 +15,7 @@ Pour 4 à 6 personnes :
 * Huile d'olive
 * Poivre
 * Sel
-Je n'aime pas le mélange sucré-salé, j'ai donc changé par rapport à la recette originale.
+
 ## Préparation
 
 1.Laver, éplucher et vider la courge. 
