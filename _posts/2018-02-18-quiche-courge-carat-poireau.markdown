@@ -31,6 +31,6 @@ Pour 4 à 6 personnes :
 
 Environ 40 min à 180°C
 
-## Source
+## Sources d'inspiration
 
-https://biocultureetvous.org/2017/12/12/quiche-a-la-courge-carat-et-au-poireau-caramelise/ 
+* [BIO Culture](https://biocultureetvous.org/2017/12/12/quiche-a-la-courge-carat-et-au-poireau-caramelise/)
