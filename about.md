@@ -6,7 +6,7 @@ permalink: /about/
 ## Intro 
 
 Ce site web est notre livre de recettes habituelles testées et approuvées.
-Mieux que le papier, ce support numérique disponible, transportable et partageable nous semblait un bon compromis.
+Mieux que le papier, ce support numérique disponible, transportable et partageable nous semblait parfait !
 
 ## Nous  
 
@@ -22,7 +22,10 @@ Ansi, nous ne préciserons pas par exemple l'étape de préchauffer son four, ou
 Nous ne préciserons pas non plus, à priori, les temps de préparation et de réalisation des recettes. 
 Ces indications sont souvent biasié de façon générale car les temps de préparation des ingrédients et rangement peuvent être parfois plus long que la recette elle-même.
 
-##Comment fonctionne ce site 
+## Comment fonctionne ce site 
 
 git 
+
 sous license open 
+
+en markdown 
