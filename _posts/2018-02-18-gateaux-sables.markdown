@@ -28,3 +28,8 @@ min.
 ## Cuisson
 
 Environ 8 min à 200°C
+
+## Sources d'inspiration
+
+* La recette papier d'un pistolet à gâteau
+* [Marmiton](http://marmiton.org/recettes/recette_gateau-sable_223765.aspx)
