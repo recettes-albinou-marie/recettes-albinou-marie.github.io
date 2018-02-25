@@ -14,7 +14,18 @@ layout: default
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
+      {% endif %}
+      {% assign tag_links = "" %}
+      {% for t in page.tags %}
+        {% if tag_links != "" %}
+          {% assign tag_links = tag_links | append: ", " %}
+        {% endif %}
+        {% assign tag_links = tag_links | append: "<a href='/tags/" | append: t | append: "'.html'>" | append: "#" | append: t | append: "</a>" %}
+      {% endfor %}
+      {% if tag_links != "" %}
+        • <span>[ {{ tag_links }} ]</span>
+      {% endif %}
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">

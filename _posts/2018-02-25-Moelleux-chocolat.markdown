@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Moelleux au chocolat de Karine"
+tags: dessert gateau chocolat
 ---
 
 ## Ingrédients

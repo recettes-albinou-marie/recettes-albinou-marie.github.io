@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Gâteaux sablés"
+tags: dessert gateau biscuit
 ---
 
 ## Ingrédients

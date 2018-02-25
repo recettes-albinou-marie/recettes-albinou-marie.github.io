@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Recettes contenants le tag #{{ page.tag }}</h1>
+
+  <ul>
+    {% for post in site.tags[page.tag] %}
+      <li>
+        {% assign date_format = "%-d %B %Y" %}
+        {% assign date_english = post.date | date: date_format %}
+        {% include date-french.html %}
+        <a href="{{ post.url }}">{{ post.title }}</a> ({{ date_french }})<br>
+        {{ post.description }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
