@@ -14,9 +14,9 @@ import glob
 import os
 
 post_dir = '_posts/'
-tag_dir = 'tag/'
+tag_dir = 'tags/'
 
-filenames = glob.glob(post_dir + '*md')
+filenames = glob.glob(post_dir + '*.markdown')
 
 total_tags = []
 for filename in filenames:
@@ -38,14 +38,14 @@ for filename in filenames:
     f.close()
 total_tags = set(total_tags)
 
-old_tags = glob.glob(tag_dir + '*.md')
+old_tags = glob.glob(tag_dir + '*.markdown')
 for tag in old_tags:
     os.remove(tag)
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag + '.md'
+    tag_filename = tag_dir + tag + '.markdown'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    write_str = '---\nlayout: tagpage\ntag: ' + tag + '\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())
