@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Topinambours au four"
+tags: topinambours
 ---
 
 ## Ingrédients

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Quiche courge carat et poireaux"
+tags: quiche courge poireaux
 ---
 
 ## Ingrédients

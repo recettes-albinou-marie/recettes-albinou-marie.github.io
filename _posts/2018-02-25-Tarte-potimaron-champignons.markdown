@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Tarte potimarron et champignons"
+title:  "Quiche potimarron et champignons"
+tags: quiche potimarron
 ---
 
 ## Ingrédients
