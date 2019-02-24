@@ -8,7 +8,7 @@ tags:   pizza pain
 
 * Ingrédients pour un [pain](../../../2018/11/25/pain-bio.html) de 300g
 * 3 cuillères à soupe d'huile d'olive
-* 200g de concentré de tomate
+* 120g de concentré de tomate
 * Au choix : mozzarella, emmental, champignons, jambon, ...
 
 ## Préparation
