@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Cake salé"
+tags: apéro cake
+---
+
+## Ingrédients
+
+* 200g de farine
+* 1/2 saché de levure chimique
+* 3 oeuf
+* 10cl de lait
+* 5cl d'huile d'olive
+* 100g d'emmental
+* une garniture pour le cake
+
+## Préparation
+
+1. Mélanger la farine et la levure
+1. Ajouter les oeufs, le lait et l'huile
+1. Faire cuire la garniture si besoin
+1. Ajouter la garniture et l'emmental
+
+## Cuisson
+
+Environ 40min à 180°C
+
+## Source d'inspiration
+
+* [marmiton](https://www.marmiton.org/recettes/recette_cake-poireaux-lardons-emmental-rape_330508.aspx)
