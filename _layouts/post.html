@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -20,7 +21,7 @@ layout: default
         {% if tag_links != "" %}
           {% assign tag_links = tag_links | append: ", " %}
         {% endif %}
-        {% assign tag_links = tag_links | append: "<a href='/tags/" | append: t | append: "'.html'>" | append: "#" | append: t | append: "</a>" %}
+        {% assign tag_links = tag_links | append: "<a href='/tags/" | append: t | append: ".html'>" | append: "#" | append: t | append: "</a>" %}
       {% endfor %}
       {% if tag_links != "" %}
         • <span>[ {{ tag_links }} ]</span>
