@@ -13,6 +13,14 @@ layout: default
         {% include date-french.html %}
         {{ date_french }}
       </time>
+      {% if page.updated %}
+        <time datetime="{{ page.updated | date_to_xmlschema }}" itemprop="dateUpdated">
+          {% assign date_format = site.minima.date_format_min | default: "%b %-d, %Y" %}
+          {% assign date_english = page.updated | date: date_format %}
+          {% include date-french.html %}
+          (dernière mise à jour le {{ date_french }})
+        </time>
+      {% endif %}
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}
