@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pain burger"
+updated: "2020-04-22"
 tags: pain
 ---
 
@@ -15,7 +16,7 @@ Pour 4 petits pains:
 * 10cl de lait
 * 5cl d'eau
 * 20g de beurre
-* 2 oeufs
+* 1 oeuf
 * graines de sésame
 
 ## Préparation
@@ -24,11 +25,11 @@ Pour 4 petits pains:
 reposer 15 min
 1. Dans un grand saladier, mélanger la farine, le sucre et le sel
 1. Faire fondre le beurre dans le lait
-1. Battre les oeufs
+1. Battre l'oeuf
 1. Verser dans le saladier:
   * la levure réhydraté
   * le mélange beurre/lait
-  * les oeufs
+  * l'oeuf
 1. Pétrir la pâte pendant 10 à 15 minutes
 1. Former une boule, la recouvrir d'un linge humide et la laisser reposer à
 température ambiante pendant au moins 2h
