@@ -17,9 +17,9 @@ tags:   crêpes
 1. Mettre la farine dans un saladier
 1. Y ajouter les 2 œufs
 1. Fouetter en ajoutant au fur et à mesure et dans l'ordre:
-  1. le lait
-  1. l'eau
-  1. le beurre fondu
+    1. le lait
+    1. l'eau
+    1. le beurre fondu
 1. Mettre la préparation au réfrigérateur pendant 2h
 
 ## Cuisson

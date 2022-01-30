@@ -16,10 +16,10 @@ tags:   lentilles végétarien
 
 1. Cuire les lentilles (pas trop, évitez la bouillie)
 1. Mixer:
-  * 2/3 des lentilles
-  * échalote
-  * sauce tomate
-  * persil et épices
+    * 2/3 des lentilles
+    * échalote
+    * sauce tomate
+    * persil et épices
 1. Ajouter la préparation aux lentilles restantes
 1. Attendre le refroidissement (voir mettre au frais)
 
