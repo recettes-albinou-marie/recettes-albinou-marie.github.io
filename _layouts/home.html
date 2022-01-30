@@ -29,7 +29,7 @@ layout: default
         {% assign date_english = post.date | date: date_format %}
         {% include date-french.html %}
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        <div class="post-meta">{{ date_french }}</div>
+        <div class="post-meta">{{ date_french | capitalize }}</div>
       </li>
     {% endfor %}
   </ul>

@@ -12,7 +12,7 @@ layout: default
         {% assign date_format = "%-d %B %Y" %}
         {% assign date_english = post.date | date: date_format %}
         {% include date-french.html %}
-        <a href="{{ post.url }}">{{ post.title }}</a> ({{ date_french }})<br>
+        <a href="{{ post.url }}">{{ post.title }}</a> ({{ date_french | capitalize }})<br>
         {{ post.description }}
       </li>
     {% endfor %}
