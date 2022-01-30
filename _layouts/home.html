@@ -21,9 +21,9 @@ layout: default
   {% endfor %}
   </p>
 
-  <h2>Nos 5 dernières recettes</h2>
+  <h2>Nos recettes</h2>
   <ul class="post-list">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {% assign date_english = post.date | date: date_format %}
