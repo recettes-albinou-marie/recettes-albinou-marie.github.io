@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pâte brisée végétalienne"
-tags: quiche tarte
+tags: quiche tarte végétarien
 ---
 
 ## Ingrédients
