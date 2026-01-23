@@ -22,7 +22,6 @@ tags: dessert gateau
 1. Ajouter:
   * la farine
   * la poudre d'amande/noisettes
-  * le sucre
   * la levure
   * le sel
   * les carottes
