@@ -9,9 +9,9 @@ tags: dessert gateau chocolat
 * 200g de chocolat noir
 * 125g de beurre
 * 150g de sucre
+* 3 oeuf
 * 80g de farine
 * ½ saché de levure chimique
-* 3 oeuf
 
 ## Préparation
 
